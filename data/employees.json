@@ -1,0 +1,27 @@
+{
+  "Employees": [
+    {
+      "EmployeeID": 1,
+      "FirstName": "Rakshitha",
+      "LastName": "R",
+      "Gender": "F",
+      "DateOfBirth": "2000-01-01"
+    }
+  ],
+  "Departments": [
+    {
+      "DepartmentID": 101,
+      "DepartmentName": "IT",
+      "Location": "Bengaluru"
+    }
+  ],
+  "Salaries": [
+    {
+      "SalaryID": 501,
+      "EmployeeID": 1,
+      "BasicSalary": 50000,
+      "Bonus": 5000,
+      "Allowances": 2000
+    }
+  ]
+}
