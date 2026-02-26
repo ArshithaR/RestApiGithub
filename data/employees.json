@@ -1,0 +1,27 @@
+{
+  "employees": [
+    {
+      "EmployeeID": 1,
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Gender": "Female",
+      "DateOfBirth": "1992-08-24"
+    }
+  ],
+  "departments": [
+    {
+      "DepartmentID": 10,
+      "DepartmentName": "Engineering",
+      "Location": "New York"
+    }
+  ],
+  "salaries": [
+    {
+      "SalaryID": 101,
+      "EmployeeID": 1,
+      "BasicSalary": 75000,
+      "Bonus": 5000,
+      "Allowances": 1200
+    }
+  ]
+}0
